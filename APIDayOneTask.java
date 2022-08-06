@@ -26,4 +26,6 @@ public class APIDayOneTask {
 		Object objText = j1.get("text");
 		System.out.println(objText);	
 	}
+	Object objText = j1.get("text");
+		System.out.println(objText);
 }
